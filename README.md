@@ -10,4 +10,4 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
-See the challenge live : https://single-price-grid-component-sandy-omega.vercel.app/
+See the challenge live : https://single-price-grid-component.mayank-behl.vercel.app/
